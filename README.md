@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Anas Temouden** frm Morocco, 18 yo, a **Freshman Student** @ Al Akhawayn University, I am majoring in Artificial Intelligence, 
+Hi there, I'm **Anas Temouden** frm Morocco, 18 yo, a **Freshman Student** @ Al Akhawayn University, I am majoring in Computer Science, 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
