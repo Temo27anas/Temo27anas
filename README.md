@@ -2,7 +2,7 @@
 <ul>
   <li>
   <a  href="https://www.linkedin.com/in/temo27anas">Linkedin </a>
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anas's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   </li>
    <li>
@@ -14,16 +14,14 @@
 <br />
 <br />
 
-Hi there, I'm **Anas Temouden** frm Morocco, 18 yo, a **Freshman Student** @ Al Akhawayn University, I am majoring in Computer Science, 
-
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Machine Learning, Computer Vision, NLP, Robotics, Web Dev, Competitive Programming etc..;
-- 💼 I’m pursuing a Bachelor's degree in AI + Big Data ;
+**Talking about Personal Stuff:**
+- 💼 I’m pursuing my degree in Computer Science;
+- 💻 I speak mainly Python for Data Science, and I do some web dev too.
+- 🤔 Interested in Data Science, Machine Learning Systems, Edge AI, GIS... Aviation too!
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via temo27anas@gmail.com to reach me.
+- 📫 Please email via anas.temouden@outlook.com to reach me.
 
 **Languages and Tools:**  
 
