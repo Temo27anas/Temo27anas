@@ -1,15 +1,10 @@
 ### "Hello World" 👋, I'm Anas
 <ul>
   <li>
-  <a  href="https://www.linkedin.com/in/temo27anas">Linkedin </a>
+  <a  href="https://www.linkedin.com/in/anastemouden">Linkedin </a>
   <img align="left" alt="Anas's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   </li>
-   <li>
-<a Kaggle href="https://www.kaggle.com/anastemouden/">Kaggle </a>
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-</li>
  </ul>
 <br />
 <br />
@@ -33,5 +28,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Anas's github stats](https://github-readme-stats.vercel.app/api?username=temo27anas&show_icons=true&hide_border=true)
 
