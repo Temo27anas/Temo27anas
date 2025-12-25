@@ -18,9 +18,8 @@
 
 **Talking about Personal Stuff:**
 - 💼 I’m pursuing my degree in Computer Science;
-- 💻 I speak mainly Python for Data Science, and I do some web dev too.
+- 💻 I speak mainly Python for AI/Data Science, and I do some web dev on need.
 - 🤔 Interested in Data Science, Machine Learning Systems, Edge AI, GIS... Aviation too!
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via anas.temouden@outlook.com to reach me.
 
 **Languages and Tools:**  
